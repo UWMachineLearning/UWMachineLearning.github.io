@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-09-21T01:43:13-07:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">UW ML Group</title>
+  
+
+  
+    <subtitle>The website of the Machine Learning Group at University of Washington.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Pang Wei Koh</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Pang Wei Koh" />
+      <published>2014-07-18T00:00:00-07:00</published>
+      <updated>2014-07-18T00:00:00-07:00</updated>
+      <id>http://localhost:4000/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Kevin Jamieson</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Kevin Jamieson" />
+      <published>2014-07-17T00:00:00-07:00</published>
+      <updated>2014-07-17T00:00:00-07:00</updated>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Sewoong Oh</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Sewoong Oh" />
+      <published>2014-07-16T00:00:00-07:00</published>
+      <updated>2014-07-16T00:00:00-07:00</updated>
+      <id>http://localhost:4000/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Simon Shaolei Du</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Simon Shaolei Du" />
+      <published>2014-07-15T00:00:00-07:00</published>
+      <updated>2014-07-15T00:00:00-07:00</updated>
+      <id>http://localhost:4000/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Jeff Bilmes</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Jeff Bilmes" />
+      <published>2014-07-14T00:00:00-07:00</published>
+      <updated>2014-07-14T00:00:00-07:00</updated>
+      <id>http://localhost:4000/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Jamie Morgenstern</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Jamie Morgenstern" />
+      <published>2014-07-13T00:00:00-07:00</published>
+      <updated>2014-07-13T00:00:00-07:00</updated>
+      <id>http://localhost:4000/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

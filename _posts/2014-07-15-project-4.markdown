@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 4
+title: Simon Shaolei Du
+description: Assistant Professor
+img: simon.jpeg
+website: https://simonshaoleidu.com/
+---

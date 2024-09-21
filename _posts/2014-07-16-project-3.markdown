@@ -1,0 +1,9 @@
+---
+layout: default
+modal-id: 3
+title: Sewoong Oh
+description: Professor
+img: sewoong.png
+description: Professor
+website: https://homes.cs.washington.edu/~sewoong/
+---
