@@ -3,6 +3,6 @@ layout: default
 modal-id: 6
 title: Jamie Morgenstern
 description: Assistant Professor
-img: jamie-2.jpg
+img: Jamie-2.jpg
 website: https://jamiemorgenstern.com/
 ---
