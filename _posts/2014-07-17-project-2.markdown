@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 title: Kevin Jamieson
-description: Assistant Professor
+description: Associate Professor
 img: kevin.jpeg
 website: https://homes.cs.washington.edu/~jamieson/about.html
 ---

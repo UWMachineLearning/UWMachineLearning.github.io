@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2024-09-21T02:11:10-07:00</updated>
+  <updated>2024-09-21T14:20:44-07:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -185,6 +185,38 @@
       <published>2014-07-13T00:00:00-07:00</published>
       <updated>2014-07-13T00:00:00-07:00</updated>
       <id>http://localhost:4000/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Jerry Li</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Jerry Li" />
+      <published>2014-07-12T00:00:00-07:00</published>
+      <updated>2014-07-12T00:00:00-07:00</updated>
+      <id>http://localhost:4000/project-7</id>
       <content type="html" xml:base="http://localhost:4000/"></content>
 
       

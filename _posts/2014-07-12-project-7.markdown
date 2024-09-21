@@ -1,0 +1,8 @@
+---
+layout: default
+modal-id: 7
+title: Jerry Li
+description: Assistant Professor
+img: jerry.jpeg
+website: https://jerryzli.github.io/
+---
